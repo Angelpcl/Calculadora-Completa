@@ -1,6 +1,6 @@
 import unittest
 # Importamos la clase Calculator del archivo que contiene la lógica
-from src.calculator_gui import Calculator
+from calculator_gui import Calculator
 
 class TestCalculatorOperations(unittest.TestCase):
     """
